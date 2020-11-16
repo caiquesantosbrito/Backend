@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto2 (Idade)\bin\Debug\netcoreapp3.1\Projeto2 (Idade).exe
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto2 (Idade)\bin\Debug\netcoreapp3.1\Projeto2 (Idade).deps.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto2 (Idade)\bin\Debug\netcoreapp3.1\Projeto2 (Idade).runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto2 (Idade)\bin\Debug\netcoreapp3.1\Projeto2 (Idade).runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto2 (Idade)\bin\Debug\netcoreapp3.1\Projeto2 (Idade).dll
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto2 (Idade)\bin\Debug\netcoreapp3.1\Projeto2 (Idade).pdb
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto2 (Idade)\obj\Debug\netcoreapp3.1\Projeto2 (Idade).csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto2 (Idade)\obj\Debug\netcoreapp3.1\Projeto2 (Idade).AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto2 (Idade)\obj\Debug\netcoreapp3.1\Projeto2 (Idade).AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto2 (Idade)\obj\Debug\netcoreapp3.1\Projeto2 (Idade).csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto2 (Idade)\obj\Debug\netcoreapp3.1\Projeto2 (Idade).dll
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto2 (Idade)\obj\Debug\netcoreapp3.1\Projeto2 (Idade).pdb
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto2 (Idade)\obj\Debug\netcoreapp3.1\Projeto2 (Idade).genruntimeconfig.cache
