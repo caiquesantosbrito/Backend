@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto3 (Nascimento)\bin\Debug\netcoreapp3.1\Projeto3 (Nascimento).exe
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto3 (Nascimento)\bin\Debug\netcoreapp3.1\Projeto3 (Nascimento).deps.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto3 (Nascimento)\bin\Debug\netcoreapp3.1\Projeto3 (Nascimento).runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto3 (Nascimento)\bin\Debug\netcoreapp3.1\Projeto3 (Nascimento).runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto3 (Nascimento)\bin\Debug\netcoreapp3.1\Projeto3 (Nascimento).dll
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto3 (Nascimento)\bin\Debug\netcoreapp3.1\Projeto3 (Nascimento).pdb
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto3 (Nascimento)\obj\Debug\netcoreapp3.1\Projeto3 (Nascimento).csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto3 (Nascimento)\obj\Debug\netcoreapp3.1\Projeto3 (Nascimento).AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto3 (Nascimento)\obj\Debug\netcoreapp3.1\Projeto3 (Nascimento).AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto3 (Nascimento)\obj\Debug\netcoreapp3.1\Projeto3 (Nascimento).csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto3 (Nascimento)\obj\Debug\netcoreapp3.1\Projeto3 (Nascimento).dll
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto3 (Nascimento)\obj\Debug\netcoreapp3.1\Projeto3 (Nascimento).pdb
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto3 (Nascimento)\obj\Debug\netcoreapp3.1\Projeto3 (Nascimento).genruntimeconfig.cache
