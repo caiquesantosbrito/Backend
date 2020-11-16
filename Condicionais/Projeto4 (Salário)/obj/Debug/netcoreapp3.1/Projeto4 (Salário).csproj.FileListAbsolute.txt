@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto4 (Salário)\bin\Debug\netcoreapp3.1\Projeto4 (Salário).exe
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto4 (Salário)\bin\Debug\netcoreapp3.1\Projeto4 (Salário).deps.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto4 (Salário)\bin\Debug\netcoreapp3.1\Projeto4 (Salário).runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto4 (Salário)\bin\Debug\netcoreapp3.1\Projeto4 (Salário).runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto4 (Salário)\bin\Debug\netcoreapp3.1\Projeto4 (Salário).dll
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto4 (Salário)\bin\Debug\netcoreapp3.1\Projeto4 (Salário).pdb
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto4 (Salário)\obj\Debug\netcoreapp3.1\Projeto4 (Salário).csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto4 (Salário)\obj\Debug\netcoreapp3.1\Projeto4 (Salário).AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto4 (Salário)\obj\Debug\netcoreapp3.1\Projeto4 (Salário).AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto4 (Salário)\obj\Debug\netcoreapp3.1\Projeto4 (Salário).csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto4 (Salário)\obj\Debug\netcoreapp3.1\Projeto4 (Salário).dll
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto4 (Salário)\obj\Debug\netcoreapp3.1\Projeto4 (Salário).pdb
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto4 (Salário)\obj\Debug\netcoreapp3.1\Projeto4 (Salário).genruntimeconfig.cache
