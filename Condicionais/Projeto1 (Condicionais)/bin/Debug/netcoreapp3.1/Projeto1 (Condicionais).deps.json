@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Projeto1 (Condicionais)/1.0.0": {
+        "runtime": {
+          "Projeto1 (Condicionais).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto1 (Condicionais)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto1 (Condicionais)\bin\Debug\netcoreapp3.1\Projeto1 (Condicionais).exe
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto1 (Condicionais)\bin\Debug\netcoreapp3.1\Projeto1 (Condicionais).deps.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto1 (Condicionais)\bin\Debug\netcoreapp3.1\Projeto1 (Condicionais).runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto1 (Condicionais)\bin\Debug\netcoreapp3.1\Projeto1 (Condicionais).runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto1 (Condicionais)\bin\Debug\netcoreapp3.1\Projeto1 (Condicionais).dll
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto1 (Condicionais)\bin\Debug\netcoreapp3.1\Projeto1 (Condicionais).pdb
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto1 (Condicionais)\obj\Debug\netcoreapp3.1\Projeto1 (Condicionais).csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto1 (Condicionais)\obj\Debug\netcoreapp3.1\Projeto1 (Condicionais).AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto1 (Condicionais)\obj\Debug\netcoreapp3.1\Projeto1 (Condicionais).AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto1 (Condicionais)\obj\Debug\netcoreapp3.1\Projeto1 (Condicionais).csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto1 (Condicionais)\obj\Debug\netcoreapp3.1\Projeto1 (Condicionais).dll
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto1 (Condicionais)\obj\Debug\netcoreapp3.1\Projeto1 (Condicionais).pdb
+C:\Users\caisb\OneDrive\Desktop\Backend\Condicionais\Projeto1 (Condicionais)\obj\Debug\netcoreapp3.1\Projeto1 (Condicionais).genruntimeconfig.cache
