@@ -7,7 +7,7 @@ namespace Projeto4__Salário_
         static void Main(string[] args)
         {   
             Console.WriteLine("----------------------------------------------------");
-            Console.WriteLine("Reajustaremos o salários menores que 500 reais");
+            Console.WriteLine("Reajustaremos os salários menores que 500 reais");
             Console.WriteLine("----------------------------------------------------");
             Console.WriteLine("O seu salário é menor que 500 reais?");
             string resposta = Console.ReadLine();
