@@ -1,0 +1,13 @@
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto3 (Tabuada)\bin\Debug\netcoreapp3.1\Projeto3 (Tabuada).exe
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto3 (Tabuada)\bin\Debug\netcoreapp3.1\Projeto3 (Tabuada).deps.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto3 (Tabuada)\bin\Debug\netcoreapp3.1\Projeto3 (Tabuada).runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto3 (Tabuada)\bin\Debug\netcoreapp3.1\Projeto3 (Tabuada).runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto3 (Tabuada)\bin\Debug\netcoreapp3.1\Projeto3 (Tabuada).dll
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto3 (Tabuada)\bin\Debug\netcoreapp3.1\Projeto3 (Tabuada).pdb
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto3 (Tabuada)\obj\Debug\netcoreapp3.1\Projeto3 (Tabuada).csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto3 (Tabuada)\obj\Debug\netcoreapp3.1\Projeto3 (Tabuada).AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto3 (Tabuada)\obj\Debug\netcoreapp3.1\Projeto3 (Tabuada).AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto3 (Tabuada)\obj\Debug\netcoreapp3.1\Projeto3 (Tabuada).csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto3 (Tabuada)\obj\Debug\netcoreapp3.1\Projeto3 (Tabuada).dll
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto3 (Tabuada)\obj\Debug\netcoreapp3.1\Projeto3 (Tabuada).pdb
+C:\Users\caisb\OneDrive\Desktop\Backend\Console\Projeto3 (Tabuada)\obj\Debug\netcoreapp3.1\Projeto3 (Tabuada).genruntimeconfig.cache
